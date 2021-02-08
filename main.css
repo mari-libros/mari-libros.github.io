@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>  
+<head>
+<meta charset="utf-8">
+<title>entre rosas, sueños y libros</title>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
+<style> 
+/* semana 3, entrega del menu de navegacion general, aqui fue la creación del menu, además se le agrego un puntero */
+   body,a:hover {
+    cursor: url(http://cur.cursors-4u.net/others/oth-8/oth717.ani), url(http://cur.cursors-4u.net/others/oth-8/oth717.png), progress !important;
+     }
+     
+     
+      
+        #barra-navegacion{
+			background-color:#f2d2c9;
+          margin-left: 2em;
+          margin-right:2em;  
+          margin-top:1em;
+           
+           
+
+		}
+/* semana 6 entrega de algunas propiedades pseudoclases hover además de combinar dos selectores,tambien se realizo la barra lateral que es publicidad*/
+
+		#barra-navegacion ul{
+			margin: 0;
+			padding: 0;
+		}
+
+		#barra-navegacion ul li{
+			display: inline-block;
+           
+		}
+
+		#barra-navegacion ul li a{
+			color:#5f5d5f ;
+            display: block;
+			padding: 20px 161px;
+			text-decoration: none;
+         font-family: 'Dancing Script', cursive;
+            font-size:18px;
+            font-weight:bold;
+           
+            
+		}
+
+		#barra-navegacion ul li a:hover{
+			background-color: #ebb0a0;
+		}   
+        
+         .barra-navegacion-derecha{
+   float: right;
+   
+   }
+     
+    #post{  
+         float:left;
+         width:70%;
+         margin:20px;
+         
+          } 
+          
+          .date-header span {
+    background-color: #bbbbbb;
+    color: #ffffff;
+    padding: 0.4em;
+    letter-spacing: 3px;
+    margin: inherit;
+    font-family: IM Fell French Canon SC;
+    font-size:13px;
+    font-weight:bold;
+    font-style: normal;
+    }
+    
+    
+    
+    .titulo{
+    font-family: 'Dancing Script', cursive;
+    color:#f26673;
+    font-size:30px;
+    font-weight:normal;
+    font-style: normal;
+    margin: .3em 0 0;
+    }
+     
+    .sub-titulo{
+    font-family: "verdana" , sans-serif;
+    text-align: center;
+    margin-top:1em;
+    font-style: italic;
+    font-weight:bold;
+    } 
+     
+  
+ p{
+ text-align:center;
+ margin-top:3em;
+ line-height:1,5em;
+ color:rgb(102, 102, 102);
+ font-family:cursive;
+ font-size:15px;
+ }
+ 
+ 
+  .imagenes{
+         display:block;
+margin:auto;
+box-shadow: 7px 7px 7px #999;
+width:"100";
+     }
+     
+     #pie-de-pagina{
+     position:relative;
+     clear:both;
+     margin-top:-20px;
+     width:100%;
+     pandding:50%;
+     text-align:center;
+          
+     }
+     
+     span{
+     color:#f26673;
+    
+     
+     }
+     
+      #lateral{
+     float: right;
+       margin-top:4em;
+      float: right;
+       display:block;
+                   width:17%;   
+        
+     } 
+
+     
+     #Final{
+     display:block;
+     height:60%;
+     margin:auto;
+     }
+     
+     .centrado {
+     margin-left:auto;
+     margin-right: auto;
+}
+     
+</style>
