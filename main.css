@@ -129,12 +129,12 @@ width:"100";
      }
      
       #lateral{
-     float:left;
+      float:left;
 position: absolute;
    display: block;
-     top: 800px;
-    left: 850px;
-    z-index: 99; 
+     top: 690px;
+    left: 980px;
+    z-index: 99;    
      } 
 
      
