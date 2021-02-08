@@ -1,3 +1,11 @@
+<html>  
+<head>
+<meta charset="utf-8">
+<title>entre rosas, sueños y libros</title>
+  <link href="main.css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
 <head>
 <img class="centrado"id="bienvenida" height="454px; "src="https://i.ibb.co/NjdBWFK/portada-marca.png" style="display: block" width="891px; "> <head>
 
