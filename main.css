@@ -75,6 +75,15 @@
     font-style: normal;
     }
     
+ul{
+ margin-top:3em;
+ line-height:1,5em;
+ color:rgb(102, 102, 102);
+ font-family:cursive;
+ font-size:15px;
+ text-align: center;
+	text-decoration: none;
+	}
     
     
     .titulo{
