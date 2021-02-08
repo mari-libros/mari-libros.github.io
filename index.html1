@@ -1,0 +1,58 @@
+<head>
+<img class="centrado"id="bienvenida" height="454px; "src="https://i.ibb.co/NjdBWFK/portada-marca.png" style="display: block" width="891px; "> <head>
+
+
+
+<nav id= "barra-navegacion">
+
+  <ul>
+    <li><a href="https://www.w3schools.com/code/tryit.asp?filename=GN9WZVSRN77A">Series Epoca</a></li>
+    <li class="barra-navegacion-derecha"><a target="_blank"  href="https://www.w3schools.com/code/tryit.asp?filename=GNEF5W5YXFRZ">Romance Historico</a></li>
+  </ul>
+</nav>
+
+<!--semana 4, estrega de la tercera parte de la creación de la pagina web, aquí se desarrollo el articulo, además se le agrego una tipografia externa!-->
+
+<article id="post">
+
+          <h1 class="titulo">BRIDGERTON: La serie. revisando las impresiones iniciales</h1>
+          
+                 <p class="sub-titulo">BRIDGERTON – La serie-  revisión
+Impresiones Iniciales</p>
+              <img class="imagenes" src="https://pics.filmaffinity.com/Los_Bridgerton_Serie_de_TV-259182758-mmed.jpg">
+          
+          
+          
+          
+                 <p> 
+
+Decir que Bridgerton ha sido un éxito es quedarse corto. Hace solo un poco más de un mes fue lanzada y a partir de ahí la Bridgertonmania ha sido imparable; posteos en todos y cada uno de los portales web, calificación bastante elevada, redes a reventar de la aceptación que ha tenido por parte del espectador y lo más importante, los más de 80 millones de visualizaciones en todo el mundo durante sus primeros 28 días de lanzamiento, lo que la convierte en la serie más vista de la historia de Netflix. ¿Qué!? Si señores, la información es oficial, la popularidad ha sido tal que desbancando series populares y de trayectorias como: Narcos, Elite, Dark, Stranger Things y la lista es más larga. Una absoluta locura que las productoras no esperaban ni yo -y supongo que ustedes tampoco-.<br><br>
+ 
+
+De mas está confirmarles que la segunda temporada viene en camino, porque ya se lo imaginaran, y es que, ¿qué productora no aprovechara el boom para sacarle el máximo provecho a su producto?. Julia Quinn debe estar pletórica.<br><br>
+
+Pero después de que se pasó la fiebre del estreno de la serie (recordemos que salió el 25/12 y yo ese mismo día después de ver el primer capítulo procedí a realizar un posteo bastante apresurado) he estado pensando cosas… y decidí ver la serie nuevamente, pero esta vez bajo una lupa algo más crítica. Y de ahí salió este post.<br><br>
+
+</p>
+ <br><br><br><br>
+
+</article>
+
+
+<aside id="lateral">
+<br><br><br><br><br><br><br><br>
+  <img src="https://lh3.googleusercontent.com/proxy/5VZ8VTqek5GLKD7Iga8nA5OgsFimWI4PNR2t7NbM178H1Pe9duGgMxTm29fGmAnnClC00OSA1d0x9tQBI0iCuRZ-C3c">
+
+
+</aside>
+
+<!--semana 5, estrega de la cuarta parte de la creación de la pagina web, aquí se desarrollo el pie de pagina, además ya se encuentra todo preparado para comenzar con la barra lateral !-->
+
+<footer id="pie-de-pagina">
+<span>----------------------------------------------------------------------</span><br><br><br>
+
+<img height="200" src="http://4.bp.blogspot.com/-oemKo0fSD1M/WkCYDM5JlqI/AAAAAAAABJ0/j0yRMP0d3OgpIuouGpcd2lEYQFZ3-ljHQCK4BGAYYCw/s1600/800.jpg" width="800">
+
+
+<p> Entre rosas, sueños y libros © Maria Paula Quiroga Diaz</p>
+</footer>
