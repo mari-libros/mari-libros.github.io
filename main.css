@@ -141,9 +141,14 @@ width:"100";
      margin-right: auto;
 }
 
-  #pie-de-pagina{
-	   margin-left:auto;
-     margin-right: auto;
+    #pie-de-pagina{
+     position:relative;
+     clear:both;
+     margin-top:-20px;
+     width:100%;
+     pandding:50%;
+     text-align:center;
+
 	  }
      
      
