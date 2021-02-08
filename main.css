@@ -112,7 +112,15 @@ box-shadow: 7px 7px 7px #999;
 width:"100";
      }
      
-   
+    #pie-de-pagina{
+     position:relative;
+     clear:both;
+     margin-top:-20px;
+     width:100%;
+     pandding:50%;
+     text-align:center;
+
+	  }
         
      span{
      color:#f26673;
@@ -141,15 +149,7 @@ width:"100";
      margin-right: auto;
 }
 
-    #pie-de-pagina{
-     position:relative;
-     clear:both;
-     margin-top:-20px;
-     width:100%;
-     pandding:50%;
-     text-align:center;
-
-	  }
+   
      
      
 </style>
